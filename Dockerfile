@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:8-jre8 
+From addof/tomcatserver:1
 
 # Maintainer 
 MAINTAINER "memoryjinga@gmail.com" 
